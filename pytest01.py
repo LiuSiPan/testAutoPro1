@@ -2,7 +2,7 @@
 
 
 # def testMyset(num1,num2):
-#     print("红红火火恍恍惚惚：{}....{}".format((num1+num2),"没有撤退可言"))
+#     print("红红火火恍恍惚惚：{}....{}".format((num1+num2),"没有撤退可言哈哈哈哈哈哈哈哈哈"))
 #
 # testMyset(1,6)
 
